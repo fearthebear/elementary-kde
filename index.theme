@@ -1,6 +1,16 @@
 [Icon Theme]
 Name=Elementary KDE
-Comment=Smooth modern theme designed to be intuitive.
+Comment=Smooth modern theme designed to be intuitive. Adapted for KDE.
+Inherits=breeze,gnome,hicolor
+
+DesktopDefault=48
+ToolbarDefault=16
+ToolbarSizes=16,24,32,48
+MainToolbarDefault=16
+MainToolbarSizes=16,24,32,48
+PanelDefault=22
+PanelSizes=16,22,24,32,48
+FollowsColorScheme=false
 
 Example=directory-x-normal
 
@@ -26,7 +36,7 @@ Type=Scalable
 Size=24
 Context=Actions
 MinSize=8
-MaxSize=32
+MaxSize=31
 Type=Scalable
 
 [actions@2x/24]
@@ -34,7 +44,7 @@ Size=24
 Scale=2
 Context=Actions
 MinSize=8
-MaxSize=32
+MaxSize=31
 Type=Scalable
 
 [actions/32]
