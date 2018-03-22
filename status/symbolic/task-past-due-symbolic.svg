@@ -5,78 +5,32 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   height="16.001953"
-   id="svg7384"
+   id="svg8"
    version="1.1"
-   width="16">
+   width="16"
+   height="16">
   <metadata
-     id="metadata90">
+     id="metadata14">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>elementary Symbolic Icon Theme</dc:title>
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <title
-     id="title9167">elementary Symbolic Icon Theme</title>
   <defs
-     id="defs7386">
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter7554">
-      <feBlend
-         id="feBlend7556"
-         in2="BackgroundImage"
-         mode="darken" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter7554-7">
-      <feBlend
-         id="feBlend7556-6"
-         in2="BackgroundImage"
-         mode="darken" />
-    </filter>
-  </defs>
-  <g
-     id="layer9"
-     label="status"
-     style="display:inline"
-     transform="translate(-413.03195,382.00195)">
-    <path
-       d="m 421.03145,-382 c -1.10457,0 -2,0.89543 -2,2 l -3,0 c -1,0 -1,1 -1,1 l 0,11 c 0,1 1,1 1,1 l 6.96875,0 0,-1 -6.96875,0 0,-11 3,0 0,2 c 0,0 -1,0 -1,1 l 1,0 4,0 1,0 c 0,-0.75 -0.5625,-0.95312 -0.84375,-1 l -0.15625,0 0,-2 3,0 -0.0312,7 1,0 0.0312,-7 c 0.004,-0.99999 -1,-1 -1,-1 l -3,0 c 0,-0.13807 -0.005,-0.27605 -0.0312,-0.40625 -0.18659,-0.91137 -1.0023,-1.59375 -1.9688,-1.59375 z m 0,1 c 0.41421,0 0.75444,0.26608 0.90625,0.625 0.0506,0.11964 0.0937,0.23693 0.0937,0.375 0,0.55228 -0.44771,1 -1,1 -0.55229,0 -1,-0.44772 -1,-1 0,-0.55228 0.44771,-1 1,-1 z"
-       id="path30993"
-       style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    <path
-       d="m 424.0002,-371 1.375,0 1.125,1.09375 1.09375,-1.09375 1.40625,0 0,1.46875 -1.09375,1.0625 1.09375,1.0625 0,1.40625 -1.4375,0 -1.0625,-1.0625 -1.0625,1.0625 -1.4375,0 0,-1.40625 1.0625,-1.0625 -1.0625,-1.0625 0,-1.46875 z"
-       id="path3761-2-3-5-4-8-9-8-9-9-0-6"
-       style="color:#bebebe;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible" />
-  </g>
-  <g
-     id="layer10"
-     style="display:inline"
-     transform="translate(-413.03195,382.00195)" />
-  <g
-     id="layer13"
-     style="display:inline"
-     transform="translate(-413.03195,382.00195)" />
-  <g
-     id="layer14"
-     transform="translate(-413.03195,382.00195)" />
-  <g
-     id="layer15"
-     style="display:inline"
-     transform="translate(-413.03195,382.00195)" />
-  <g
-     id="g71291"
-     style="display:inline"
-     transform="translate(-413.03195,382.00195)" />
-  <g
-     id="layer12"
-     style="display:inline"
-     transform="translate(-413.03195,382.00195)" />
+     id="defs12" />
+  <path
+     id="rect29"
+     d="M 7.4492188 0 C 7.1998507 0 7 0.223 7 0.5 L 7 1 L 5.5 1 C 5.223 1 5 1.223 5 1.5 L 5 2.5 C 5 2.777 5.223 3 5.5 3 L 10.5 3 C 10.777 3 11 2.777 11 2.5 L 11 1.5 C 11 1.223 10.777 1 10.5 1 L 9 1 L 9 0.5 C 9 0.223 8.8001494 0 8.5507812 0 L 7.4492188 0 z M 2.5 1 C 1.669 1 1 1.669 1 2.5 L 1 14.5 C 1 15.331 1.669 16 2.5 16 L 9.6777344 16 A 4.5 4.5 0 0 1 8.2636719 14 L 3 14 L 3 2 L 4 2 L 4 1 L 2.5 1 z M 12 1 L 12 2 L 13 2 L 13 8.03125 A 4.5 4.5 0 0 1 15 8.7597656 L 15 2.5 C 15 1.669 14.331 1 13.5 1 L 12 1 z M 5.25 5 C 5.1115 5 5 5.1115 5 5.25 L 5 5.75 C 5 5.8885 5.1115 6 5.25 6 L 10.75 6 C 10.8885 6 11 5.8885 11 5.75 L 11 5.25 C 11 5.1115 10.8885 5 10.75 5 L 5.25 5 z M 5.25 7 C 5.1115 7 5 7.1115 5 7.25 L 5 7.75 C 5 7.8885 5.1115 8 5.25 8 L 10.75 8 C 10.8885 8 11 7.8885 11 7.75 L 11 7.25 C 11 7.1115 10.8885 7 10.75 7 L 5.25 7 z M 5.25 9 C 5.1115 9 5 9.1115 5 9.25 L 5 9.75 C 5 9.8885 5.1115 10 5.25 10 L 7.75 10 C 7.8885 10 8 9.8885 8 9.75 L 8 9.25 C 8 9.1115 7.8885 9 7.75 9 L 5.25 9 z "
+     style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <path
+     class="error"
+     d="m 12.5,9 a 3.5,3.5 0 1 0 0,7 3.5,3.5 0 0 0 0,-7 z M 12,10 h 1 v 3 h -1 z m 0,4 h 1 v 1 h -1 z"
+     overflow="visible"
+     style="color:#bebebe;overflow:visible;fill:#ef2929;marker:none"
+     id="path4" />
 </svg>
